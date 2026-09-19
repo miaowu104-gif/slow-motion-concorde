@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "durationSec": 186.98,
+    "bpm": 104,
+    "key": "F小调"
+  },
+  "cues": 24,
+  "melodyNotes": 310,
+  "chordSegs": 36,
+  "firstCueMs": 55388,
+  "lastCueMs": 182201,
+  "problems": []
+}

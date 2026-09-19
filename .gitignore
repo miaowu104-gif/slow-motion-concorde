@@ -1,0 +1,6 @@
+# ---- 系统与编辑器 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
+*.tmp
